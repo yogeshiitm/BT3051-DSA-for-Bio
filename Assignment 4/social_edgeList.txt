@@ -1,0 +1,138 @@
+Source	Target
+Alicia Spinnet	Angelina Johnson
+Alicia Spinnet	Fred Weasley
+Alicia Spinnet	George Weasley
+Alicia Spinnet	Harry James Potter
+Alicia Spinnet	Katie Bell
+Angelina Johnson	Alicia Spinnet
+Angelina Johnson	Fred Weasley
+Angelina Johnson	George Weasley
+Angelina Johnson	Harry James Potter
+Angelina Johnson	Katie Bell
+Anthony Goldstein	Ernie Macmillan
+Anthony Goldstein	Hannah Abbott
+Anthony Goldstein	Harry James Potter
+Anthony Goldstein	Justin Finch-Fletchley
+Anthony Goldstein	Susan Bones
+Anthony Goldstein	Terry Boot
+Cho Chang	Harry James Potter
+Dean Thomas	Dean Thomas
+Dean Thomas	Harry James Potter
+Draco Malfoy	Pansy Parkinson
+Ernie Macmillan	Anthony Goldstein
+Ernie Macmillan	Hannah Abbott
+Ernie Macmillan	Harry James Potter
+Ernie Macmillan	Justin Finch-Fletchley
+Ernie Macmillan	Susan Bones
+Ernie Macmillan	Terry Boot
+Fred Weasley	Alicia Spinnet
+Fred Weasley	Angelina Johnson
+Fred Weasley	George Weasley
+Fred Weasley	Ginny Weasley
+Fred Weasley	Harry James Potter
+Fred Weasley	Hermione Granger
+Fred Weasley	Katie Bell
+Fred Weasley	Lee Jordan
+Fred Weasley	Ronald Weasley
+George Weasley	Alicia Spinnet
+George Weasley	Angelina Johnson
+George Weasley	Fred Weasley
+George Weasley	Ginny Weasley
+George Weasley	Harry James Potter
+George Weasley	Hermione Granger
+George Weasley	Katie Bell
+George Weasley	Lee Jordan
+George Weasley	Ronald Weasley
+Ginny Weasley	Fred Weasley
+Ginny Weasley	George Weasley
+Ginny Weasley	Harry James Potter
+Ginny Weasley	Hermione Granger
+Ginny Weasley	Luna Lovegood
+Ginny Weasley	Neville Longbottom
+Ginny Weasley	Ronald Weasley
+Gregory Goyle	Draco Malfoy
+Gregory Goyle	Pansy Parkinson
+Gregory Goyle	Vincent Crabbe
+Hannah Abbott	Anthony Goldstein
+Hannah Abbott	Ernie Macmillan
+Hannah Abbott	Harry James Potter
+Hannah Abbott	Justin Finch-Fletchley
+Hannah Abbott	Susan Bones
+Hannah Abbott	Terry Boot
+Harry James Potter	Alicia Spinnet
+Harry James Potter	Angelina Johnson
+Harry James Potter	Cho Chang
+Harry James Potter	Ernie Macmillan
+Harry James Potter	Fred Weasley
+Harry James Potter	George Weasley
+Harry James Potter	Ginny Weasley
+Harry James Potter	Hermione Granger
+Harry James Potter	Justin Finch-Fletchley
+Harry James Potter	Katie Bell
+Harry James Potter	Lee Jordan
+Harry James Potter	Luna Lovegood
+Harry James Potter	Neville Longbottom
+Harry James Potter	Ronald Weasley
+Hermione Granger	Fred Weasley
+Hermione Granger	George Weasley
+Hermione Granger	Ginny Weasley
+Hermione Granger	Harry James Potter
+Hermione Granger	Luna Lovegood
+Hermione Granger	Neville Longbottom
+Hermione Granger	Ronald Weasley
+Justin Finch-Fletchley	Anthony Goldstein
+Justin Finch-Fletchley	Ernie Macmillan
+Justin Finch-Fletchley	Hannah Abbott
+Justin Finch-Fletchley	Harry James Potter
+Justin Finch-Fletchley	Susan Bones
+Justin Finch-Fletchley	Terry Boot
+Katie Bell	Alicia Spinnet
+Katie Bell	Angelina Johnson
+Katie Bell	Fred Weasley
+Katie Bell	George Weasley
+Katie Bell	Harry James Potter
+Lee Jordan	Fred Weasley
+Lee Jordan	George Weasley
+Luna Lovegood	Ginny Weasley
+Luna Lovegood	Harry James Potter
+Luna Lovegood	Hermione Granger
+Luna Lovegood	Neville Longbottom
+Luna Lovegood	Ronald Weasley
+Neville Longbottom	Ginny Weasley
+Neville Longbottom	Harry James Potter
+Neville Longbottom	Hermione Granger
+Neville Longbottom	Luna Lovegood
+Neville Longbottom	Neville Longbottom
+Neville Longbottom	Ronald Weasley
+Padma Patil	Harry James Potter
+Pansy Parkinson	Draco Malfoy
+Pansy Parkinson	Gregory Goyle
+Pansy Parkinson	Pansy Parkinson
+Pansy Parkinson	Vincent Crabbe
+Parvati Patil	Padma Patil
+Percy Weasley	Harry James Potter
+Ronald Weasley	Fred Weasley
+Ronald Weasley	George Weasley
+Ronald Weasley	Ginny Weasley
+Ronald Weasley	Harry James Potter
+Ronald Weasley	Hermione Granger
+Ronald Weasley	Luna Lovegood
+Ronald Weasley	Neville Longbottom
+Ronald Weasley	Ronald Weasley
+Seamus Finnigan	Harry James Potter
+Susan Bones	Anthony Goldstein
+Susan Bones	Ernie Macmillan
+Susan Bones	Hannah Abbott
+Susan Bones	Harry James Potter
+Susan Bones	Justin Finch-Fletchley
+Terry Boot	Anthony Goldstein
+Terry Boot	Ernie Macmillan
+Terry Boot	Hannah Abbott
+Terry Boot	Harry James Potter
+Terry Boot	Hermione Granger
+Terry Boot	Justin Finch-Fletchley
+Terry Boot	Susan Bones
+Vincent Crabbe	Draco Malfoy
+Vincent Crabbe	Gregory Goyle
+Vincent Crabbe	Pansy Parkinson
+
